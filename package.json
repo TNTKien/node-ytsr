@@ -1,5 +1,5 @@
 {
-  "name": "@tntkien/ytsr",
+  "name": "@iam_neyk/ytsr",
   "version": "0.0.0-development",
   "description": "Simple package to search YouTube - no strings attached.",
   "keywords": [
@@ -58,5 +58,10 @@
   },
   "engines": {
     "node": ">=8"
+  },
+  "directories": {
+    "example": "example",
+    "lib": "lib",
+    "test": "test"
   }
 }
