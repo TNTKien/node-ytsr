@@ -1,5 +1,5 @@
 {
-  "name": "ytsr",
+  "name": "@tntkien/ytsr",
   "version": "0.0.0-development",
   "description": "Simple package to search YouTube - no strings attached.",
   "keywords": [
